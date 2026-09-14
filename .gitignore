@@ -1,0 +1,38 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Environment
+.venv/
+
+# Database
+data/
+*.db
+ 
+# Archives
+*.7z
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Pytest / Mypy
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
