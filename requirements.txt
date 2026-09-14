@@ -1,0 +1,4 @@
+aiogram
+anthropic
+python-dotenv
+tzdata
